@@ -74,7 +74,7 @@
         <th>Course</th>
       </tr>
       <tr>
-        <td style="background-color: #f9c2cc;">JAVA WITH SQL</td>
+        <td style="background-color: #f9c2cc;">JAVA WITH SQL MANY MORE</td>
       </tr>
       <tr>
         <td style="background-color: #f7e3b6;">C Programming</td>
