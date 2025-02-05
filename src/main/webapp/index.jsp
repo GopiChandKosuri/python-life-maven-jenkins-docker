@@ -77,7 +77,7 @@
         <td style="background-color: #f9c2cc;">JAVA WITH SQL MANY MORE</td>
       </tr>
       <tr>
-        <td style="background-color: #f7e3b6;">C Programming</td>
+        <td style="background-color: #f7e3b6;">C Programming , C++</td>
       </tr>
       <tr>
         <td style="background-color: #c9e5f9;">LINUX-PROGRAMMING</td>
